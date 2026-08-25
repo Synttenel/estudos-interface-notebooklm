@@ -1,6 +1,9 @@
 # estudos-interface-notebooklm
 Estudo de interface do usuário e experiência do usuário usando a ferramenta notebookLM
 
+# Link para o NotebookLM:
+> https://notebook.google.com/notebook/bf6b2c62-afa2-4daa-bf81-34026bcae0af
+
 # Objetivo: O assunto escolhido foi UI/UX, tendo como objetivo aprender modelar boas interfaces no assunto, metologias e designar boas práticas na área.
 
 # Fontes:
@@ -18,5 +21,3 @@ Fontes artigos:
 > https://www.learnui.design/blog/5-practical-exercises-learn-ui-design-free.html
 > https://tailwindcss.com/
 
-# Link para o NotebookLM:
-> https://notebook.google.com/notebook/bf6b2c62-afa2-4daa-bf81-34026bcae0af
