@@ -17,3 +17,6 @@ Fontes de vídeo:
 Fontes artigos:
 > https://www.learnui.design/blog/5-practical-exercises-learn-ui-design-free.html
 > https://tailwindcss.com/
+
+# Link para o NotebookLM:
+> https://notebook.google.com/notebook/bf6b2c62-afa2-4daa-bf81-34026bcae0af
