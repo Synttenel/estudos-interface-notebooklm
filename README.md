@@ -4,7 +4,8 @@ Estudo de interface do usuário e experiência do usuário usando a ferramenta n
 # Link para o NotebookLM:
 > https://notebook.google.com/notebook/bf6b2c62-afa2-4daa-bf81-34026bcae0af
 
-# Objetivo: O assunto escolhido foi UI/UX, tendo como objetivo aprender modelar boas interfaces no assunto, metologias e designar boas práticas na área.
+# Objetivo: 
+O assunto escolhido foi UI/UX, tendo como objetivo aprender modelar boas interfaces no assunto, metologias e designar boas práticas na área.
 
 # Fontes:
 
