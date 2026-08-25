@@ -21,3 +21,10 @@ Fontes artigos:
 > https://www.learnui.design/blog/5-practical-exercises-learn-ui-design-free.html
 > https://tailwindcss.com/
 
+
+# Prompts usados:
+
+1) Me explique como devo me comportar na hora de desenvolver uma interface?
+  R: 
+
+
