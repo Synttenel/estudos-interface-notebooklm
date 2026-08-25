@@ -12,8 +12,8 @@ Fontes de vídeo:
 > https://www.youtube.com/watch?v=wIuVvCuiJhU
 > https://www.youtube.com/watch?v=86PGRyQjdzQ
 > https://www.youtube.com/watch?v=66m1adPbHJk
+> https://www.youtube.com/watch?v=KG4ONHqF1qg
 
 Fontes artigos:
 > https://medium.com/@zenlinker/best-ways-to-upgrade-your-website-ui-ux-in-2025-39ed309c67d4
-> https://www.youtube.com/watch?v=KG4ONHqF1qg
 > https://tailwindcss.com/
